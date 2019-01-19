@@ -1,0 +1,20 @@
+PODS:
+  - GoogleWebRTC (1.1.25821)
+  - RongCloudIM/IMLib (2.9.8)
+
+DEPENDENCIES:
+  - GoogleWebRTC (~> 1.1.25744)
+  - RongCloudIM/IMLib (~> 2.9.8)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleWebRTC
+    - RongCloudIM
+
+SPEC CHECKSUMS:
+  GoogleWebRTC: 2cd3a1a664777f8690afbf657b5f89bd28dd211f
+  RongCloudIM: dcfa8c4fe11e992c0d187f7dda71f2ce5bfae4d1
+
+PODFILE CHECKSUM: 16bd2476c8db1d2299aea993d3064ad5dce0fc38
+
+COCOAPODS: 1.5.3
